@@ -51,7 +51,7 @@ The project is divided into **2 Levels** with a total of **6 Tasks**:
 
 ### Task 3: Visual Insights
 - Histogram and bar plots of ratings
-- Compare average ratings by city and cuisine
+- Compare average ratings by city
 - Visualize correlations between features and the target
 
 ---
