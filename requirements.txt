@@ -3,3 +3,5 @@ plotly
 folium
 matplotlib
 seaborn
+numpy
+sklearn
